@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi there, I'm Sachin Sunar! 👋
 
-<!--
-**sachinsunar/sachinsunar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm an aspiring Software Developer, passionate about Web Development and MERN Stack. Currently, I'm working on enhancing my skills in Full-Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I'm Learning
+
+Software Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)
+
+Programming Languages: Java, C
+
+🛠 Tech Stack
+
+Languages: Java, C, JavaScript
+
+Web Development: React.js, Node.js, Express.js, MongoDB
+
+Other Tools: Git, Linux
+
+📈 Goals
+
+Master MERN Stack Development
+
+Build full-stack applications with MERN
+
+📫 Connect With Me
+
+GitHub: github.com/your-username
+
+LinkedIn: linkedin.com/in/your-profile
+
+Email: your.email@example.com
+
+Thanks for visiting my profile! 😊 Let's build something amazing together! 🚀
