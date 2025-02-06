@@ -26,10 +26,10 @@ Build full-stack applications with MERN
 
 📫 Connect With Me
 
-GitHub: github.com/your-username
+GitHub: github.com/sachinsunar
 
-LinkedIn: linkedin.com/in/your-profile
+LinkedIn: linkedin.com/in/sachinsunar
 
-Email: your.email@example.com
+Email: sachinsunar2151@gmai.com
 
 Thanks for visiting my profile! 😊 Let's build something amazing together! 🚀
