@@ -18,12 +18,6 @@ Web Development: React.js, Node.js, Express.js, MongoDB
 
 Other Tools: Git, Linux
 
-📈 Goals
-
-Master MERN Stack Development
-
-Build full-stack applications with MERN
-
 📫 Connect With Me
 
 GitHub: github.com/sachinsunar
