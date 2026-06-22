@@ -38,7 +38,7 @@ Hi there, I'm Sachin Sunar! 👋
 
 
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 GitHub: github.com/sachinsunar
 
@@ -49,13 +49,3 @@ Email: sachinsunar2151@gmai.com
 Thanks for visiting my profile! 😊 Let's build something amazing together! 🚀
 
 Portfolio: sachinsunar.com.np
-
-## 📫 Connect With Me
-
-GitHub: github.com/sachinsunar
-
-LinkedIn: linkedin.com/in/sachinsunar
-
-Email: [sachinsunar2151@gmail.com](mailto:sachinsunar2151@gmail.com)
-
-Always building, always learning, and always shipping products. 🚀
